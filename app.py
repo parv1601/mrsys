@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 import requests
 
-omdb_api =  '8df7c883'
+omdb_api =  'your_api'
 
 
 def fetch_poster_omdb(movie_name):
